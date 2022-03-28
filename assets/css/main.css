@@ -211,7 +211,7 @@ main {
   display: flex;
   align-items: center;
   width: 80vw;
-  border-top: 4px solid var(--primary-color);
+  border-top: 4px dotted var(--primary-color-faded);
 }
 
 .right-or-wrong h2 {

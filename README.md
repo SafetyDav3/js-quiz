@@ -10,6 +10,10 @@
 
   ![Mock-up](./assets/images/readmeimgs/mock-up.png)
 
+## Whiteboard
+
+- ![Whitboard](./assets/images/readmeimgs/whiteboard.jpg)
+
 ## Resources
 
 - Color scheme:
